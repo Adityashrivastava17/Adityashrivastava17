@@ -80,6 +80,35 @@
 
 ---
 
+### 🚀 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<img src="https://img.shields.io/badge/Studying-Data%20Science-yellow?style=for-the-badge&logo=python&logoColor=white" />
+
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Adityashrivastava17/Data-Science-Journey" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Science%20Journey-📊-1f1f1f?style=for-the-badge&logo=python&logoColor=14f1d9" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Adityashrivastava17/Python-Practice" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20Practice-🐍-1f1f1f?style=for-the-badge&logo=python&logoColor=14f1d9" />
+  </a>
+</p>
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
+
+
 
 
 
