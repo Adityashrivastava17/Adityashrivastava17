@@ -23,22 +23,24 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark&perline=6" />
 </p>
+>
+
 
 ---
 
 ---
 
-### 📊 GitHub Stats
 
 <h2 align="center">📊 GitHub Activity Overview</h2>
 
 <p align="center">
-  <img width="46%" 
-       src="https://github-readme-stats.vercel.app/api?username=Adityashrivastava17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="47.5%" 
+       src="https://github-readme-stats.vercel.app/api?username=Adityashrivastava17&show_icons=true&theme=tokyonight" />
   &nbsp;
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityashrivastava17&theme=tokyonight" /> </p>
+   <img width="50%" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Adityashrivastava17&theme=tokyonight" /> </p>
 
 <p align="center">
   <img width="95%" 
@@ -56,9 +58,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/yashrivastava.17" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@yashrivastava.17-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@yashrivastava.17-1f1f1f?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
+
+
+
+
 
 ---
 # My Python 🐍
@@ -76,6 +82,9 @@
 
 
 ---
+
+
+
 
 
 
