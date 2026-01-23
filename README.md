@@ -40,7 +40,10 @@
        src="https://github-readme-stats.vercel.app/api?username=Adityashrivastava17&show_icons=true&theme=tokyonight" />
   &nbsp;
    <img width="50%" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=Adityashrivastava17&theme=tokyonight" /> </p>
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Adityashrivastava17&theme=tokyonight" />
+</p>
+
+
 
 <p align="center">
   <img width="95%" 
