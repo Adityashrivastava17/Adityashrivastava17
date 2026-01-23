@@ -28,7 +28,6 @@
 
 ---
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -39,9 +38,7 @@
   <img width="46%" 
        src="https://github-readme-stats.vercel.app/api?username=Adityashrivastava17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   &nbsp;
-  <img width="46%" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=Adityashrivastava17&theme=tokyonight&hide_border=true" />
-</p>
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityashrivastava17&theme=tokyonight" /> </p>
 
 <p align="center">
   <img width="95%" 
