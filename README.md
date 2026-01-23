@@ -1,7 +1,7 @@
 <!-- 👋 Aditya Kumar Shrivastava | GitHub Profile -->
 
 <h1 align="center">
-  Hey there 👋, I'm <a href="https://github.com/Adityashrivastava17" target="_blank">Aditya Kumar Shrivastava</a>
+  Hey there 👋, I'm <a href="https://github.com/Adityashrivastava17" target="_blank">Aditya</a>
 </h1>
 
 <p align="center">
@@ -10,29 +10,26 @@
 
 ---
 
-### 🧠 About Me
 
+### 🧠 About Me
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering (CSE)**  
 - 💡 Passionate about **AI, ML, and Web Development**  
 - 🎨 Also a **Graphic Designer** on Fiverr & Canva  
 - 🎯 Currently learning **HTML, Python, and AI concepts**  
 - 🐱 Fun fact: I have a cat named *Mouth* 🐾  
 
+
 ---
 
-### ⚙️ Tech Stack
+<h2 align="left">⚙️ Tech Stack</h2>
 
-<p align="center">
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark&perline=6" />
 </p>
->
 
 
----
 
 ---
-
-
 <h2 align="center">📊 GitHub Activity Overview</h2>
 
 <p align="center">
