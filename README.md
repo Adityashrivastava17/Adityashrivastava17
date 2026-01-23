@@ -11,12 +11,9 @@
 ---
 
 
-### 🧠 About Me
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering (CSE)**  
-- 💡 Passionate about **AI, ML, and Web Development**  
-- 🎨 Also a **Graphic Designer** on Fiverr & Canva  
-- 🎯 Currently learning **HTML, Python, and AI concepts**  
-- 🐱 Fun fact: I have a cat named *Mouth* 🐾  
+### 📝 About Me
+ - Exploring the world of code
+ - Learning skills are my habits
 
 
 ---
