@@ -1,12 +1,17 @@
 <!-- 👋 Aditya Kumar Shrivastava | GitHub Profile -->
 
 <h1 align="center">
-  Hey there 👋, I'm <a href="https://github.com/Adityashrivastava17" target="_blank">Aditya</a>
+  Hi 👋, I'm <a href="https://github.com/Adityashrivastava17" target="_blank">Aditya</a>
 </h1>
 
+<h3 align="center">
+  Learning • Building • Improving every day
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;AI+%26+ML+Enthusiast;Graphic+Designer+%26+YouTuber;Creative+Mind+with+a+Tech+Heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learnign+Data+Science;Working+With+Python" />
 </p>
+
 
 ---
 
