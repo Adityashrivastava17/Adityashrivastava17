@@ -4,9 +4,7 @@
   Hi 👋, I'm <a href="https://github.com/Adityashrivastava17" target="_blank">Aditya</a>
 </h1>
 
-<h3 align="center">
-  Learning • Building • Improving every day
-</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learnign+Data+Science;Working+With+Python" />
@@ -16,9 +14,13 @@
 ---
 
 
-### 📝 About Me
- - Exploring the world of code
- - Learning skills are my habits
+<h2 align="left">📝 About Me</h2>
+
+- Explorer • Learner • Builder  
+- Process-driven, not outcome-obsessed.  
+- Focused on clear communication with both humans and machines.  
+- Consistent growth through daily learning.
+
 
 
 ---
